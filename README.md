@@ -60,46 +60,46 @@ Soil Types: 1 to 40 : based on the USFS Ecological Landtype Units (ELUs) for thi
 
 Study Code USFS ELU Code Description
 
-- 1 2702 Cathedral family - Rock outcrop complex, extremely stony.
-- 2 2703 Vanet - Ratake families complex, very stony.
-- 3 2704 Haploborolis - Rock outcrop complex, rubbly.
-- 4 2705 Ratake family - Rock outcrop complex, rubbly.
-- 5 2706 Vanet family - Rock outcrop complex complex, rubbly.
-- 6 2717 Vanet - Wetmore families - Rock outcrop complex, stony.
-- 7 3501 Gothic family.
-- 8 3502 Supervisor - Limber families complex.
-- 9 4201 Troutville family, very stony.
-- 10 4703 Bullwark - Catamount families - Rock outcrop complex, rubbly.
-- 11 4704 Bullwark - Catamount families - Rock land complex, rubbly.
-- 12 4744 Legault family - Rock land complex, stony.
-- 13 4758 Catamount family - Rock land - Bullwark family complex, rubbly.
-- 14 5101 Pachic Argiborolis - Aquolis complex.
-- 15 5151 unspecified in the USFS Soil and ELU Survey.
-- 16 6101 Cryaquolis - Cryoborolis complex.
-- 17 6102 Gateview family - Cryaquolis complex.
-- 18 6731 Rogert family, very stony.
-- 19 7101 Typic Cryaquolis - Borohemists complex.
-- 20 7102 Typic Cryaquepts - Typic Cryaquolls complex.
-- 21 7103 Typic Cryaquolls - Leighcan family, till substratum complex.
-- 22 7201 Leighcan family, till substratum, extremely bouldery.
-- 23 7202 Leighcan family, till substratum - Typic Cryaquolls complex.
-- 24 7700 Leighcan family, extremely stony.
-- 25 7701 Leighcan family, warm, extremely stony.
-- 26 7702 Granile - Catamount families complex, very stony.
-- 27 7709 Leighcan family, warm - Rock outcrop complex, extremely stony.
-- 28 7710 Leighcan family - Rock outcrop complex, extremely stony.
-- 29 7745 Como - Legault families complex, extremely stony.
-- 30 7746 Como family - Rock land - Legault family complex, extremely stony.
-- 31 7755 Leighcan - Catamount families complex, extremely stony.
-- 32 7756 Catamount family - Rock outcrop - Leighcan family complex, extremely stony.
-- 33 7757 Leighcan - Catamount families - Rock outcrop complex, extremely stony.
-- 34 7790 Cryorthents - Rock land complex, extremely stony.
-- 35 8703 Cryumbrepts - Rock outcrop - Cryaquepts complex.
-- 36 8707 Bross family - Rock land - Cryumbrepts complex, extremely stony.
-- 37 8708 Rock outcrop - Cryumbrepts - Cryorthents complex, extremely stony.
-- 38 8771 Leighcan - Moran families - Cryaquolls complex, extremely stony.
-- 39 8772 Moran family - Cryorthents - Leighcan family complex, extremely stony.
-- 40 8776 Moran family - Cryorthents - Rock land complex, extremely stony.
+- 2702 Cathedral family - Rock outcrop complex, extremely stony.
+- 2703 Vanet - Ratake families complex, very stony.
+- 2704 Haploborolis - Rock outcrop complex, rubbly.
+- 2705 Ratake family - Rock outcrop complex, rubbly.
+- 2706 Vanet family - Rock outcrop complex complex, rubbly.
+- 2717 Vanet - Wetmore families - Rock outcrop complex, stony.
+- 3501 Gothic family.
+- 3502 Supervisor - Limber families complex.
+- 4201 Troutville family, very stony.
+- 4703 Bullwark - Catamount families - Rock outcrop complex, rubbly.
+- 4704 Bullwark - Catamount families - Rock land complex, rubbly.
+- 4744 Legault family - Rock land complex, stony.
+- 4758 Catamount family - Rock land - Bullwark family complex, rubbly.
+- 5101 Pachic Argiborolis - Aquolis complex.
+- 5151 unspecified in the USFS Soil and ELU Survey.
+- 6101 Cryaquolis - Cryoborolis complex.
+- 6102 Gateview family - Cryaquolis complex.
+- 6731 Rogert family, very stony.
+- 7101 Typic Cryaquolis - Borohemists complex.
+- 7102 Typic Cryaquepts - Typic Cryaquolls complex.
+- 7103 Typic Cryaquolls - Leighcan family, till substratum complex.
+- 7201 Leighcan family, till substratum, extremely bouldery.
+- 7202 Leighcan family, till substratum - Typic Cryaquolls complex.
+- 7700 Leighcan family, extremely stony.
+- 7701 Leighcan family, warm, extremely stony.
+- 7702 Granile - Catamount families complex, very stony.
+- 7709 Leighcan family, warm - Rock outcrop complex, extremely stony.
+- 7710 Leighcan family - Rock outcrop complex, extremely stony.
+- 7745 Como - Legault families complex, extremely stony.
+- 7746 Como family - Rock land - Legault family complex, extremely stony.
+- 7755 Leighcan - Catamount families complex, extremely stony.
+- 7756 Catamount family - Rock outcrop - Leighcan family complex, extremely stony.
+- 7757 Leighcan - Catamount families - Rock outcrop complex, extremely stony.
+- 7790 Cryorthents - Rock land complex, extremely stony.
+- 8703 Cryumbrepts - Rock outcrop - Cryaquepts complex.
+- 8707 Bross family - Rock land - Cryumbrepts complex, extremely stony.
+- 8708 Rock outcrop - Cryumbrepts - Cryorthents complex, extremely stony.
+- 8771 Leighcan - Moran families - Cryaquolls complex, extremely stony.
+- 8772 Moran family - Cryorthents - Leighcan family complex, extremely stony.
+- 8776 Moran family - Cryorthents - Rock land complex, extremely stony.
 
 Note: 
 - First digit: climatic zone 
