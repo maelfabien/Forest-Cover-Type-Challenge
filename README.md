@@ -104,7 +104,6 @@ Study Code USFS ELU Code Description
 Note: 
 - First digit: climatic zone 
 - Second digit: geologic zones
-
 - lower montane dry 1. alluvium
 - lower montane 2. glacial
 - montane dry 3. shale
