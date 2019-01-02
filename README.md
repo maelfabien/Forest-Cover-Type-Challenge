@@ -124,6 +124,7 @@ Forest Cover Type Classes:
 - 5 -- Aspen
 - 6 -- Douglas-fir
 - 7 -- Krummholz
+
 For further information: https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.info
 
 ## Notebook
